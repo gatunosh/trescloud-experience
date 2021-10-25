@@ -1,0 +1,4 @@
+[submodule "TRESCLOUD/odoo-apps"]
+	path = TRESCLOUD/odoo-apps
+	url = git@github.com:TRESCLOUD/odoo-apps.git
+	branch = 15.0
