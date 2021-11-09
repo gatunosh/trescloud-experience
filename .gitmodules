@@ -2,3 +2,8 @@
 	path = TRESCLOUD/odoo-apps
 	url = git@github.com:TRESCLOUD/odoo-apps.git
 	branch = 15.0
+
+[submodule "gatunosh/interface-github"]
+	path = gatunosh/interface-github
+	url = git@github.com:gatunosh/interface-github.git
+	branch = 14.0
